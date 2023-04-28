@@ -1,14 +1,13 @@
 # Tic-Tac-Ayaq
 Тик-так-аяқ ойыны қазақша<br />
 Бастапқы беті:
-![alt text](1.png | =235x375)
 <img src="1.png" width="235" height="375">
-
+<br />
 Х жеңгенде:
-![alt text](2.png | =235x375)
-
+<img src="2.png" width="235" height="375">
+<br />
 О жеңгенде:
-![alt text](3.png | =235x375)
-
+<img src="3.png" width="235" height="375">
+<br />
 Тең түскенде:
-![alt text](4.png | =235x375)
+<img src="4.png" width="235" height="375">
